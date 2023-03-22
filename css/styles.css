@@ -39,7 +39,7 @@ Navigation Bar */
 
 .nav-link{
     font-size:1.2rem;
-    font-family:"Monoserrat-Light";
+    font-family:"Montserrat-Light";
 }
 
 .download-button{
@@ -51,4 +51,26 @@ Navigation Bar */
 .title-image{
     width:60%;
     transform:rotate(25deg);
+}
+
+#features{
+    padding:7% 15%;
+}
+
+.feature-box{
+    text-align:center;
+    padding:5%;
+
+}
+h3{
+    font-family:"Montserrat-Bold";
+
+}
+
+.icon{
+    color:#ef8172;
+    margin-bottom:1rem;
+}
+.icon:hover{
+    color:#ff4c68;
 }
