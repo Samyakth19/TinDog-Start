@@ -22,8 +22,7 @@ h1{
 
 h2{
     font-family: "Montserrat-Bold";
-    font-size: 3.5rem;
-    line-height: 1.5rem;
+    
 }
 /* 
 Navigation Bar */
@@ -65,12 +64,12 @@ Navigation Bar */
 
 .feature-box{
     text-align:center;
-    padding:5%;
+    padding:4.5%;
 
 }
 h3{
     font-family:"Montserrat-Bold";
-
+    font-size:1.5rem;
 }
 
 .icon{
@@ -84,7 +83,7 @@ h3{
 /* testimonials section */
 
 #testimonials{
-    padding:7% 35%;
+    padding:7% 15%;
     text-align:center;
     background-color:#ef8172;
     color:#fff;
@@ -93,4 +92,14 @@ h3{
     width:10%;
     border-radius:100%;
     margin:20px;
+}
+#press{
+    background-color:#ef8172;
+    text-align:center;
+    padding-bottom:3%;
+}
+
+press-logo{
+    width:15%;
+    margin:20px 20px 50px;
 }
